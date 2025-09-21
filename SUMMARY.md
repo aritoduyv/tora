@@ -8,6 +8,7 @@
   * [Slide](mat-tran/slide.md)
 * [Services](services.md)
 * [Interfaces](interfaces/README.md)
+  * [IDelayer](interfaces/idelayer.md)
   * [IGetRequest](interfaces/igetrequest.md)
   * [IPostRequest](interfaces/ipostrequest.md)
 * [Classes](classes.md)
